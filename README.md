@@ -1,3 +1,1 @@
-MODROC PATCH NOTES:
-
-+ Create update website
+simple updates page for modroc
