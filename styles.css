@@ -24,10 +24,13 @@ p {
     font-weight: normal;
 }
 
-hr{
+hr {
     /*width: 200px; */
     margin-top: -10px;
     margin-left: -1px;
+    height: 0.5px;
+    background-color: black;
+    border: none;
 }
 
 h1 {
