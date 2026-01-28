@@ -29,7 +29,7 @@ hr {
     margin-top: -10px;
     margin-left: -1px;
     height: 0.5px;
-    background-color: black;
+    background-color: solid black;
 }
 
 h1 {
