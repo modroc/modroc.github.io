@@ -1,6 +1,6 @@
 .my-box {
-    font-family: courier new;
     font-size: 14px;
+    font-family: courier new;
     padding: 10px;
     padding-top: 1px;
     padding-bottom: 1px;
@@ -10,6 +10,24 @@
     margin-top: 1px;
     margin-bottom: 30px;
     max-width: 800px;       
+}
+
+.per_day {
+    padding-top: -10px;
+    padding-left: 10px; 
+    padding-bottom: 15px;
+}
+
+p {
+    margin-bottom: 15px;
+    margin-top: 12px;
+    font-weight: normal;
+}
+
+hr{
+    /*width: 200px; */
+    margin-top: -10px;
+    margin-left: -1px;
 }
 
 h1 {
