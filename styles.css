@@ -27,7 +27,7 @@ p {
 hr {
     margin-top: -10px;
     margin-left: -1px;
-    height: 0.5px;
+    height: 1px;
     background-color: black;
     border: none;
     border: 0;              /* Add this */
