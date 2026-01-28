@@ -25,12 +25,11 @@ p {
 }
 
 hr {
-    /*width: 200px; */
+    border: none;
     margin-top: -10px;
     margin-left: -1px;
     height: 0.5px;
     background-color: black;
-    border: none;
 }
 
 h1 {
