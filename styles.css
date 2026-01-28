@@ -1,0 +1,20 @@
+.my-box {
+    font-family: courier new;
+    width: 700px;           /* Sets the width of the content area */
+    /* height: 100px;          /* Sets the height of the content area */
+    padding: 10px;
+    padding-top: 1px;          /* Adds space around the content, inside the border */
+    padding-bottom: 1px;          /* Adds space around the content, inside the border */
+    border: 1px solid black; /* Adds a solid black border */
+    margin: 30px;
+    margin-top: 1px;           /* Adds space outside the border, separating it from other elements */
+}
+
+h1 {
+    font-family: courier new;
+    font-size: 20px;
+    font-weight: normal;
+    margin-left: 30px;
+    margin-bottom: 4px;
+    margin-top: 100px;
+}
