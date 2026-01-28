@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Centered Paragraph</title>
+    <style>
+        html, body {
+            height: 100%;
+            margin: 0; /* Removes default body margin */
+            display: flex; /* Enables Flexbox layout for the body */
+            justify-content: center; /* Centers content horizontally */
+            align-items: center; /* Centers content vertically */
+            text-align: center; /* Centers the text within the paragraph itself */
+        }
+
+        p {
+            padding: 20px;
+            border: 1px solid black;
+            max-width: 80%; 
+            font-family; courier new;
+        }
+    </style>
+</head>
+<body>
+    <p>
+      UNDER CONSCTRUCTION           
+    </p>
+</body>
+</html>
