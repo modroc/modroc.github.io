@@ -25,11 +25,14 @@ p {
 }
 
 hr {
-    border: none;
     margin-top: -10px;
     margin-left: -1px;
     height: 0.5px;
-    background-color: solid black;
+    background-color: black;
+    border: none;
+    border: 0;              /* Add this */
+    outline: none;          /* Add this */
+    display: block;         /* Add this */
 }
 
 h1 {
